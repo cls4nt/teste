@@ -1,0 +1,20 @@
+.root {
+    background-color: lightsteelblue;
+}
+
+
+.body{
+    background-color: var(--cor-de-fundo);
+}
+.titulo__principal{
+    background-color: blueviolet;
+    text-align: center;
+}
+.titulo__secundadrio{
+background-color: blueviolet;
+text-align: center;
+}
+.titulo__terciario{
+    background-color: blueviolet;
+    text-align: center;
+}
